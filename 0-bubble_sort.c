@@ -16,7 +16,7 @@ void swap(int *a, int *b)
 }
 
 /**
- * bubble-sort - sort in ascending order
+ * bubble_sort - sort in ascending order
  *
  * @array: array of integers to be sorted
  * @size: size of array
